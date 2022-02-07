@@ -6,4 +6,4 @@ In this article written by Brian Chen, he talks about the origins of the term "m
 
 At the moment, we already have some sense of the metaverse with social aspects of videogames such as Fornite; but, technologists believe that the experience can be even greater. Therefore, companies such as Meta (formerly Facebook) and Microsoft are making strides towards a digial lifestyle by creating more software and hardware pieces such as the Hololens and Playstation VR.
 
-[Link to article] (https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
+[Link to article](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
