@@ -9,3 +9,5 @@ At the moment, we already have some sense of the metaverse with social aspects o
 [Link to article](https://www.nytimes.com/2022/01/18/technology/personaltech/metaverse-gaming-definition.html)
 
 Interesting article! It seems like there is a large misconception about how far back the origins of most things in tech strech. While things always seems new, it's incredible just how long they've been worked on for. -Duardo
+
+Metaverse, although an interesting idea, makes me wonder if it will turn out to be a dyspotian one. -Nikhil
